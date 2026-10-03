@@ -1,0 +1,10 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User generated customized output directory
+dist/
+
+# OS and editor artifacts
+.DS_Store
