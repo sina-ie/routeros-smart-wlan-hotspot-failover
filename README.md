@@ -1,6 +1,6 @@
 # routeros-smart-wlan-hotspot-failover
 
-[![CI](https://github.com/sina-ie/routeros-smart-wlan-hotspot-failover/actions/workflows/ci.yml/badge.svg)](https://github.com/sina-ie/routeros-smart-wlan-hotspot-failover/actions/workflows/ci.yml)
+[![CI](https://github.com/your-github-username/routeros-smart-wlan-hotspot-failover/actions/workflows/ci.yml/badge.svg)](https://github.com/your-github-username/routeros-smart-wlan-hotspot-failover/actions/workflows/ci.yml)
 [![RouterOS](https://img.shields.io/badge/RouterOS-v6%20%7C%20v7-blue.svg)](https://mikrotik.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)](configure.py)
@@ -113,7 +113,7 @@ In standard single-radio hardware, a Wi-Fi interface can only listen on one chan
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/sina-ie/routeros-smart-wlan-hotspot-failover.git
+git clone https://github.com/your-github-username/routeros-smart-wlan-hotspot-failover.git
 cd routeros-smart-wlan-hotspot-failover
 ```
 
